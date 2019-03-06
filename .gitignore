@@ -1,6 +1,9 @@
 .DS_Store
-cityscapes_samples
-cityscapes_samples_labels
-test_results
+__pycache__/
+pretrained/
+cityscapes_samples/
+cityscapes_samples_labels/
+test_results/
 .nfs*
 .tgz*
+*.pth
